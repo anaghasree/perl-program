@@ -1,0 +1,5 @@
+www.google.com
+sdfse.ft
+dfssf345.com
+qq.dd.yy
+https://www.google.co.in/search?sclient=psy-ab&biw=1215&bih=929&q=valid+url+regular+expression++in+perl&oq=valid+url+regular+expression++in+perl&gs_l=hp.3...1999227.2001095.10.2002675.9.8.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..9.0.0.YIFAhg2CNN8&pbx=1&bav=on.2,or.&bvm=bv.149093890,d.dGc&ech=1&psi=fljCWK2gHMHq8AW26IzgAw.1489131661773.22&ei=P2fCWL2hNsGP8wXjtILADA&emsg=NCSR&noj=1
